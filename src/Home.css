@@ -1,0 +1,29 @@
+.divi {
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 15%;
+    /* background-color: skyblue; */
+    
+    background: linear-gradient(to top left, #33ccff 0%, #ff99cc 100%);
+
+}
+
+body{
+    background-color: black;
+    
+}
+
+input {
+    margin-top: 30px;
+    border: solid black;
+}
+
+hr {
+    margin-left: 30%;
+    margin-right: 30%;
+    border: solid black;
+}
+
+p{
+    color: grey;
+}
